@@ -3,7 +3,7 @@ pandas==2.0.3
 numpy==1.26.4
 prophet==1.1.5
 joblib==0.17.0
-matplotlib==3.3.1
+matplotlib==3.9.2
 yfinance==0.2.41
 matplotlib-inline==0.1.7
 pandasql==0.7.3
